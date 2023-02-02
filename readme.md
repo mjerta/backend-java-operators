@@ -1,4 +1,4 @@
-# Template - Opdrachtbeschrijving ???
+# Backend Java: Operators
 
 ## Inleiding
 
